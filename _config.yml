@@ -1,5 +1,5 @@
 # Setup
-title: Onur Serkeş
+title: Onur Serkes
 url: https://onursrks.github.io
 paginate: 1
 baseurl: ""
@@ -31,8 +31,8 @@ sass:
 # ga_analytics: UA-000000-0
 
 # Specify the author for blog posts
-author: Onur Serkeş
-  name: Onur Serkeş
+author: Onur Serkes
+  name: Onur Serkes
   url: https://www.linkedin.com/in/onurserkes/
   email: onursserkes@hotmail.com
 
