@@ -1,8 +1,8 @@
 # Setup
-title: Dark Poole
-url: https://getpoole.com
+title: Onur Serkeş
+url: https://onursrks.github.io
 paginate: 1
-baseurl: ""
+baseurl: "https://onursrks.github.io"
 permalink: pretty
 
 # Gems
@@ -31,10 +31,10 @@ sass:
 # ga_analytics: UA-000000-0
 
 # Specify the author for blog posts
-author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+author:Onur Serkeş
+  name: Onur Serkeş
+  url: https://www.linkedin.com/in/onurserkes/
+  email: onursserkes@hotmail.com
 
 # Custom vars
 version: 3.0.0
@@ -44,5 +44,5 @@ nav:
   - title: Blog
     url: /archive
 
-  - title: About
+  - title: Hakkında
     url: /about
