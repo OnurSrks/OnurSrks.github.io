@@ -4,7 +4,7 @@ title: Hakkında
 ---
 
 <p class="message">
-  Merhabalar ben Onur Serkeş. 23 yaşındayım ve Adli Bilişim Mühendisliğinden mezun oldum. Kendimi siber güvenlik ve adli bilişim konularında geliştirmekteyim.
+  Merhabalar ben Onur Serkeş. 23 yaşındayım. Ve Adli Bilişim Mühendisliğinden mezun oldum. Kendimi siber güvenlik ve adli bilişim konularında geliştirmekteyim.
 </p>
 
 In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
